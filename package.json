@@ -1,0 +1,11 @@
+{
+    "name": "json-function-loader",
+    "version": "0.1.0",
+    "author": "Nish Patel",
+    "description": "json function loader module for webpack",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nishp1/json-function-loader.git"
+    }
+}
